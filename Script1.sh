@@ -6,3 +6,4 @@ pwd
 clear
 echo "Learning git"
 echo "new line in branch b1"
+echo "new2"
